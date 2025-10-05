@@ -6,7 +6,7 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Skeleton } from "@/components/ui/skeleton"
 
 export const metadata: Metadata = {
-  title: "Blog | AI & Big Data Portfolio",
+  title: "Blog",
   description: "Insights, tutorials, and thoughts on AI, Machine Learning, and Big Data",
 }
 
